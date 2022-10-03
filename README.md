@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name: Tatishvili 
+### First Name: Mariam
+### GitHub Username: mariamtatishvili21
 
 ---
 #### General Workflow: 
